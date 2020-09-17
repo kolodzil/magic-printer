@@ -1,5 +1,3 @@
-# magic-printer - node js
-
 # magic-printer - NodeJS
 Create simple restfull service providing printing capabilities based on NodeJS (native, express... you can use all what you need)
 
