@@ -1,0 +1,22 @@
+{
+  "name": "magic-printer-node",
+  "version": "1.0.0",
+  "description": "Magic Printer Node JS",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodzil/magic-printer.git"
+  },
+  "keywords": [
+    "Printer"
+  ],
+  "author": "LK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolodzil/magic-printer/issues"
+  },
+  "homepage": "https://github.com/kolodzil/magic-printer#readme"
+}
